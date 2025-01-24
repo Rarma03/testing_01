@@ -10,5 +10,7 @@ int main()
     cout << a << endl;
     cout << a << endl;
 
+    cout << "Prasuk commit: 1" << endl;
+
     return 0;
 }
