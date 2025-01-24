@@ -19,5 +19,7 @@ int main()
 
     cout << "Prasuk commit: 2" << endl;
 
+    cout << "Prasuk commit: 3" << endl;
+
     return 0;
 }
