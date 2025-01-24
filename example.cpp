@@ -23,5 +23,7 @@ int main()
     int c = 20;
     cout << c << endl;
 
+    int d = 30;
+
     return 0;
 }
