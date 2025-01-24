@@ -23,7 +23,7 @@ int main()
     int c = 20;
     cout << c << endl;
 
-    int d = 30;
+    cout << "Prasuk commit: 4" << endl;
 
     return 0;
 }
