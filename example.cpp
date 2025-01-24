@@ -17,5 +17,7 @@ int main()
     int b = 10;
     cout << b << endl;
 
+    int c = 20;
+
     return 0;
 }
