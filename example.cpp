@@ -12,5 +12,7 @@ int main()
 
     cout << "Prasuk commit: 1" << endl;
 
+    cout << "cham chutiye";
+
     return 0;
 }
